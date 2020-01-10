@@ -4,10 +4,10 @@ A People Counter based on Python and OpenCV
 
 ## Usage
 Python libraries, including:
-   *NumPy
-   *OpenCV
-   *dlib
-   *imutil
+   * NumPy
+   * OpenCV
+   * dlib
+   * imutil
 
 The program runs on unix-like OS.
 
