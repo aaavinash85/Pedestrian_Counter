@@ -17,4 +17,4 @@ _____________________
 $ python3 counter.py
 -----------------------
 
-In order to use videoof your choice edit the [counter.py] in line 32
+In order to use video of your choice edit the [counter.py] in line 32
