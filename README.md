@@ -11,7 +11,7 @@ Python libraries, including:
 
 The program runs on unix-like OS.
 
-Running
+## Running
 _____________________
 
 $ python3 counter.py
